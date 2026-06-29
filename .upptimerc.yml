@@ -4,6 +4,10 @@ repo: status
 sites:
   - name: Company Website
     url: https://mobile2crm.com
+  - name: Spikko
+    url: https://secure.spikko.com
+  - name: Provisioning Users Portal
+    url: https://provision.mobile2crm.com/
 
 # Internal services — listed for visibility, updated manually.
 # Point these at a real public health URL only if one exists;

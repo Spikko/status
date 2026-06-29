@@ -1,0 +1,32 @@
+/* ------------------------------------------------------------------ */
+/* Mobile2CRM status page — brand overrides (loaded via themeUrl)      */
+/* The `theme: dark` setting handles backgrounds; this file adds the   */
+/* brand accent on top. Change the ONE value below to your exact hex.  */
+/* ------------------------------------------------------------------ */
+
+:root {
+  /* ↓↓↓ replace with your real Mobile2CRM brand accent hex ↓↓↓ */
+  --m2c-accent: #2563eb;
+}
+
+/* Links throughout the page use the brand accent */
+a {
+  color: var(--m2c-accent);
+}
+a:hover {
+  filter: brightness(1.15);
+}
+
+/* Time-range selector (24h / 7d / 30d / 1y / all) active state */
+[class*="active"] {
+  background: var(--m2c-accent) !important;
+  border-color: var(--m2c-accent) !important;
+}
+
+/* Subtle accent on section headings */
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+/* Keep operational/degraded/down colors as-is (green/amber/red) so the
+   status semantics stay readable — we only override the brand accent. */

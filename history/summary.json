@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile2crm.com.ico",
     "slug": "company-website",
     "status": "up",
-    "uptime": "3.36%",
-    "uptimeDay": "3.36%",
-    "uptimeWeek": "3.36%",
-    "uptimeMonth": "3.36%",
-    "uptimeYear": "3.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 277,
     "timeWeek": 277,
     "timeMonth": 277,
     "timeYear": 277,
-    "dailyMinutesDown": {
-      "2026-06-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Spikko",

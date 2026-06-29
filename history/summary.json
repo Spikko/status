@@ -4,17 +4,19 @@
     "url": "https://mobile2crm.com",
     "icon": "https://icons.duckduckgo.com/ip3/mobile2crm.com.ico",
     "slug": "company-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "60.49%",
+    "uptimeDay": "60.49%",
+    "uptimeWeek": "60.49%",
+    "uptimeMonth": "60.49%",
+    "uptimeYear": "60.49%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2026-06-29": 0
+    }
   }
 ]

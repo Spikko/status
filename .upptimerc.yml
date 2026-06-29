@@ -4,9 +4,9 @@ repo: status
 sites:
   - name: Company Website
     url: https://mobile2crm.com
-  - name: Spikko
+  - name: Spikko Secure
     url: https://secure.spikko.com
-  - name: Provisioning Users Portal
+  - name: Provisioning
     url: https://provision.mobile2crm.com/
 
 # Internal services — listed for visibility, updated manually.
@@ -15,10 +15,13 @@ sites:
 
 status-website:
   cname: status.mobile2crm.com
-  name: mobile2crm Status
-  introTitle: "**mobile2CRM** status page"
-  introMessage: Current status of mobile2CRM services.
+  name: Mobile2CRM Status
+  theme: dark
   logoUrl: https://mobile2crm.com/wp-content/uploads/2020/04/LogoM2c-Trans500-1-768x173.png
+  favicon: https://mobile2crm.com/wp-content/uploads/2020/05/cropped-NewFavicon512-270x270.png
+  themeUrl: https://cdn.statically.io/gh/Spikko/status/master/assets/status-theme.css
+  introTitle: "**Mobile2CRM** status page"
+  introMessage: Current operational status of Mobile2CRM services.
   navbar:
     - title: Status
       href: /

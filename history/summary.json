@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile2crm.com.ico",
     "slug": "company-website",
     "status": "down",
-    "uptime": "85.17%",
+    "uptime": "79.35%",
     "uptimeDay": "65.26%",
-    "uptimeWeek": "85.17%",
-    "uptimeMonth": "85.17%",
-    "uptimeYear": "85.17%",
+    "uptimeWeek": "79.35%",
+    "uptimeMonth": "79.35%",
+    "uptimeYear": "79.35%",
     "time": 364,
     "timeDay": 351,
     "timeWeek": 364,
@@ -17,7 +17,8 @@
     "timeYear": 364,
     "dailyMinutesDown": {
       "2026-07-03": 517,
-      "2026-07-02": 449
+      "2026-07-02": 449,
+      "2026-07-04": 478
     }
   },
   {
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1291,
-    "timeDay": 1424,
-    "timeWeek": 1291,
-    "timeMonth": 1291,
-    "timeYear": 1291,
+    "time": 1246,
+    "timeDay": 1222,
+    "timeWeek": 1246,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 225,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 148,
+    "timeDay": 141,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   }
 ]

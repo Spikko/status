@@ -6,20 +6,20 @@
     "slug": "company-website",
     "status": "up",
     "uptime": "88.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.83%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "90.82%",
     "uptimeMonth": "88.01%",
     "uptimeYear": "88.01%",
-    "time": 377,
-    "timeDay": 433,
-    "timeWeek": 408,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 386,
+    "timeDay": 462,
+    "timeWeek": 420,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2026-07-03": 517,
       "2026-07-02": 449,
       "2026-07-04": 925,
-      "2026-07-10": 0
+      "2026-07-10": 1
     }
   },
   {
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 914,
-    "timeWeek": 1227,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "time": 1259,
+    "timeDay": 1103,
+    "timeWeek": 1236,
+    "timeMonth": 1259,
+    "timeYear": 1259,
     "dailyMinutesDown": {}
   },
   {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 96,
-    "timeWeek": 164,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "time": 170,
+    "timeDay": 157,
+    "timeWeek": 172,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   }
 ]

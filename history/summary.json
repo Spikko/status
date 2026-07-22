@@ -4,17 +4,17 @@
     "url": "https://mobile2crm.com",
     "icon": "https://icons.duckduckgo.com/ip3/mobile2crm.com.ico",
     "slug": "company-website",
-    "status": "down",
-    "uptime": "85.18%",
-    "uptimeDay": "67.78%",
-    "uptimeWeek": "79.63%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "85.18%",
-    "time": 997,
-    "timeDay": 1688,
-    "timeWeek": 964,
-    "timeMonth": 997,
-    "timeYear": 997,
+    "status": "up",
+    "uptime": "83.90%",
+    "uptimeDay": "65.78%",
+    "uptimeWeek": "74.75%",
+    "uptimeMonth": "83.90%",
+    "uptimeYear": "83.90%",
+    "time": 986,
+    "timeDay": 1632,
+    "timeWeek": 871,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2026-07-03": 517,
       "2026-07-02": 449,
@@ -25,7 +25,8 @@
       "2026-07-19": 476,
       "2026-07-18": 213,
       "2026-07-20": 900,
-      "2026-07-21": 464
+      "2026-07-21": 480,
+      "2026-07-22": 476
     }
   },
   {
@@ -39,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1352,
-    "timeDay": 3154,
-    "timeWeek": 1468,
-    "timeMonth": 1352,
-    "timeYear": 1352,
+    "time": 1350,
+    "timeDay": 2229,
+    "timeWeek": 1515,
+    "timeMonth": 1350,
+    "timeYear": 1350,
     "dailyMinutesDown": {}
   },
   {
@@ -57,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 220,
-    "timeWeek": 159,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 175,
+    "timeDay": 207,
+    "timeWeek": 180,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   }
 ]

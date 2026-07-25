@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile2crm.com.ico",
     "slug": "company-website",
     "status": "down",
-    "uptime": "84.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "70.79%",
-    "uptimeMonth": "84.87%",
-    "uptimeYear": "84.87%",
+    "uptime": "84.43%",
+    "uptimeDay": "86.31%",
+    "uptimeWeek": "68.83%",
+    "uptimeMonth": "84.43%",
+    "uptimeYear": "84.43%",
     "time": 926,
     "timeDay": 486,
     "timeWeek": 723,
@@ -27,7 +27,8 @@
       "2026-07-20": 900,
       "2026-07-21": 480,
       "2026-07-22": 476,
-      "2026-07-23": 399
+      "2026-07-23": 399,
+      "2026-07-25": 197
     }
   },
   {

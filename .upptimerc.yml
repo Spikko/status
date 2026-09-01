@@ -4,14 +4,25 @@ repo: status
 sites:
   - name: Company Website
     url: https://mobile2crm.com
+    method: GET
+    headers:
+      - "Accept: text/html,application/xhtml+xml"
+      - "User-Agent: Upptime/1.0 (+https://status.mobile2crm.com)"
   - name: Spikko Secure
     url: https://secure.spikko.com
+    method: GET
+    headers:
+      - "Accept: text/html,application/xhtml+xml"
+      - "User-Agent: Upptime/1.0 (+https://status.mobile2crm.com)"
   - name: Provisioning
     url: https://provision.mobile2crm.com/
+    method: GET
+    headers:
+      - "Accept: text/html,application/xhtml+xml"
+      - "User-Agent: Upptime/1.0 (+https://status.mobile2crm.com)"
 
-# Internal services — listed for visibility, updated manually.
-# Point these at a real public health URL only if one exists;
-# otherwise manage their status via incident issues.
+# Internal services (e.g. SBC) are handled separately via the Grafana webhook,
+# which opens/closes incident issues directly — they are not listed here.
 
 status-website:
   cname: status.mobile2crm.com
